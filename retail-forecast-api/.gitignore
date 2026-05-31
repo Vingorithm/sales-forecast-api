@@ -4,7 +4,6 @@ __pycache__/
 .env
 .env.*
 *.pkl
-!models/.gitkeep
 *.log
 .DS_Store
 .idea/
