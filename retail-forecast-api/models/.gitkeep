@@ -1,0 +1,7 @@
+# Letakkan file .pkl hasil export_model.py di folder ini:
+#   - sales_forecast_model.pkl
+#   - feature_columns.pkl
+#   - training_history.pkl
+#
+# File .pkl tidak di-commit ke git (lihat .gitignore).
+# Upload manual ke Railway atau gunakan Railway Volume.
