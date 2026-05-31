@@ -65,7 +65,7 @@ Railway Dashboard → Project → Add Volume → Mount Path: /app/models
 Lalu upload file .pkl via Railway CLI:
 railway run -- cp models/*.pkl /app/models/
 ```
-
+a
 **Opsi B — Environment variable path:**
 ```
 Set di Railway dashboard:
