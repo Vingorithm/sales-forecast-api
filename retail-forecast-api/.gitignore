@@ -3,7 +3,6 @@ __pycache__/
 *.pyo
 .env
 .env.*
-*.pkl
 *.log
 .DS_Store
 .idea/
